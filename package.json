@@ -1,0 +1,15 @@
+{
+  "name": "rotatearray",
+  "version": "1.0.0",
+  "description": "Solution to a Kata requiring an array to be rotated by a passed number amount",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
